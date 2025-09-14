@@ -10,9 +10,9 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abu Said - Software Developer",
+  title: "Portfolio of Kashfi Ajaz - Senior Software Developer",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "SAFe® Certified Senior Software Engineer with 4+ years in the Fintech & Banking domain, specialising in Java, Spring Boot, Node.js and Microservices. Proven success in AI/ML solutions (GenAI-Hakathon Deutsche-Bank) and Trade Finance (CGI-Trade360). Experienced in end-to-end release management, having delivered 12+ releases with 100% on-time delivery. Skilled in CI/CD, cloud-native development, and process automation, building scalable systems using REST/GraphQL APIs and automated testing",
 };
 
 export default function RootLayout({ children }) {
